@@ -31,7 +31,7 @@
         <%@include file="navbar.jsp" %>
         <br>
         <div class="conatiner-fluid p-0 m-0">
-                              <div class="jumbotron text-white navbar_bg banner">
+            <div class="jumbotron text-white navbar_bg banner">
                 <div class="container">
                     <h3 class="display-3">Welcome my friends !!</h3>                                
                     <p>High-level programming language includes Python, Java, JavaScript, PHP, C#, C++, Objective C, Cobol, Perl, Pascal, LISP, FORTRAN, and Swift programming language. Procedural Oriented Programming (POP) language is derived from structured programming and based upon the procedure call concept.</p>
